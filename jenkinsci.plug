@@ -1,0 +1,9 @@
+[Core]
+Name = JenkinsCi
+Module = jenkinsci
+
+[Documentation]
+Description = Integration to Jenkins CI
+
+[Python]
+Version = 2+
